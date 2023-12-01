@@ -1,1 +1,1 @@
-https://github.com/krayyz/ilhamfikri.github.io.git
+https://krayyz.github.io/ilhamfikri/
